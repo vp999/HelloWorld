@@ -2,7 +2,10 @@ print "Hello World, "
 
 print " Hello Again !!!"
 
-print "Good Night, Bye."
+
+msg = "Good Night, Bye."
+
+print msg 
 
 print " test found some issue"
 
